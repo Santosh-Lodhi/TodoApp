@@ -1,0 +1,28 @@
+Need to install below softwares in your system.. 
+- NodeJs
+- MongoDB
+
+Next -
+Create a folder in any drive names DATA inside other folder DB 
+
+Done
+
+Now run cmd
+
+go to till C:\Program Files\MongoDB\Server\3.4\bin>npm install
+
+npm installation should success.
+
+go to till mongoDB installation bin folder 
+
+C:\Program Files\MongoDB\Server\3.4\bin>mongod -dbpath D:\DATA\DB  Enter
+
+run another cmd
+
+C:\Program Files\MongoDB\Server\3.4\bin>mongo     Enter
+
+run another cmd
+
+F:\Development\Application\AngularJs\todo_App>node server.js  Enter 
+
+Now run your browses and type - http://localhost:8080/
